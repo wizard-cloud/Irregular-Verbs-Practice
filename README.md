@@ -12,7 +12,7 @@ Esta es una página web interactiva para practicar los **200 verbos irregulares 
 - Código organizado en archivos separados (`HTML`, `CSS`, `JavaScript`, y `data.js` con los verbos).
 
 ## 📁 Estructura del proyecto
-
+```plain
 │
 ├── index.html # Página principal
 ├── style.css # Estilos personalizados
@@ -20,7 +20,7 @@ Esta es una página web interactiva para practicar los **200 verbos irregulares 
 ├── data.js # Arreglos con los 200 verbos
 └── README.md # Este documento
 
-
+```
 ## 🚀 Cómo usar
 
 1. Clona este repositorio o descarga los archivos.
