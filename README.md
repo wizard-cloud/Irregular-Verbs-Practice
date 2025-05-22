@@ -14,6 +14,7 @@ Esta es una página web interactiva para practicar los **200 verbos irregulares 
 ##  Estructura del proyecto
 ```plain
 Irregular-Verbs-Practice (Carpeta)
+|
 ├── index.html # Página principal
 ├── style.css # Estilos personalizados
 ├── script.js # Lógica del juego y control del puntaje
