@@ -1,6 +1,6 @@
 # Práctica de Verbos Irregulares en Inglés
 
-Esta es una página web interactiva para practicar los **200 verbos irregulares más comunes del inglés**, diseñada para mejorar la memorización de sus tres formas: infinitivo, pasado simple y participio pasado.
+Esta es una página web interactiva para practicar los **200 verbos irregulares más comunes del inglés**, diseñada para mejorar la memorización de sus tres formas: infinitivo, pasado simple y participio pasado. Link publico gracias al hosting de githubpages: https://wizard-cloud.github.io/Irregular-Verbs-Practice/
 
 ## Características
 
